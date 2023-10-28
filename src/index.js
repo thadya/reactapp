@@ -7,13 +7,15 @@ import reportWebVitals from './reportWebVitals';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-     <h1>Weather APP</h1>
+     <h1>⛅Weather APP</h1>
     <App />
-    <br />
-    <p>
-        This project was coded by Julia and is open sourced on{" "}
-      
-      </p>
+    
+    <p class="foot-name">
+                <a href="" 
+                target="_blank"
+                rel="noreferrer">Open-source code</a>
+                 by Thato Gumbo
+            </p>
   </React.StrictMode>
 );
 

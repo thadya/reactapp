@@ -9,6 +9,11 @@ root.render(
   <React.StrictMode>
      <h1>Weather APP</h1>
     <App />
+    <br />
+    <p>
+        This project was coded by Julia and is open sourced on{" "}
+      
+      </p>
   </React.StrictMode>
 );
 

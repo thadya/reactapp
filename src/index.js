@@ -9,10 +9,9 @@ root.render(
   <React.StrictMode>
      <h1>⛅Weather APP</h1>
     <App />
-    
     <p class="foot-name">
-                <a href="" 
-                target="_blank"
+                <a href="https://github.com/thadya/reactapp" 
+        
                 rel="noreferrer">Open-source code</a>
                  by Thato Gumbo
             </p>
